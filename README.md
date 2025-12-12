@@ -10,7 +10,6 @@
 <div align="center"><b> Also check out my other platforms! </b></div> <br>
 <div align="center">
 <a src="https://tiziogrigio0.itch.io"> <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/739051f0-1750-49a3-a748-3a8cd162fbb8" /> </a> &nbsp
-<a src="https://tiziogrigio.nekoweb.org"> <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0d4bad70-e487-4d7f-8089-90e8fef947b1" />
 
 </div>
 
