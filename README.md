@@ -9,7 +9,7 @@
 
 <div align="center"><b> Also check out my other platforms! </b></div> <br>
 <div align="center">
-<a src="https://tiziogrigio0.itch.io"><img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/739051f0-1750-49a3-a748-3a8cd162fbb8" /></a>&nbsp
+<a href="https://tiziogrigio0.itch.io"><img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/739051f0-1750-49a3-a748-3a8cd162fbb8" /></a>&nbsp
 
 </div>
 <br><br>
